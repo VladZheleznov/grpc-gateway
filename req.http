@@ -1,0 +1,9 @@
+POST   http://localhost:50052/reg
+Content-Type: application/json
+
+{
+   "name": "vlad",
+   "balance": "5",
+   "usertype": "consumer",
+   "password": "123"
+}
